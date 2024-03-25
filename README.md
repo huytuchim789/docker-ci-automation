@@ -1,4 +1,4 @@
-# Automation with Docker for CI Workflows
+# Automation with Docker for CI Workflow
 
 [![Lint Code Base](https://github.com/bretfisher/docker-ci-automation/actions/workflows/call-super-linter.yaml/badge.svg)](https://github.com/bretfisher/docker-ci-automation/actions/workflows/call-super-linter.yaml)
 
